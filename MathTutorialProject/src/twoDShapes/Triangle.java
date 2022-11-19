@@ -19,4 +19,5 @@ public void perimeter()
 	peri = side1+side2+side3;
 	System.out.println("Perimeter is: "+ peri);		
 	}
+//adding a comment as a part of lab capsule 2 ->task 2
 }
